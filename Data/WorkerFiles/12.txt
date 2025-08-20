@@ -1,0 +1,7 @@
+Mewtwo
+Level: 70
+IVs: 30 HP
+- Psychic
+- Barrier
+- Recover
+- Swift

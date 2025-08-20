@@ -1,0 +1,6 @@
+Moltres
+Level: 50
+IVs: 30 HP
+- Fire Spin
+- Peck
+

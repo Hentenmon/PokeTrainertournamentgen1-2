@@ -1,0 +1,6042 @@
+|Rattata
+Level: 11
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Ekans
+Level: 11
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+|Spearow
+Level: 14
+IVs: 30 HP
+- Peck
+- Growl
+- Leer
+|Rattata
+Level: 10
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Rattata
+Level: 10
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Zubat
+Level: 10
+IVs: 30 HP
+- Leech Life
+- Supersonic
+|Rattata
+Level: 14
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Ekans
+Level: 14
+- Wrap
+- Leer
+- Poison Sting
+|Zubat
+Level: 14
+- Leech Life
+- Supersonic
+|Rattata
+Level: 15
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Spearow
+Level: 15
+IVs: 30 HP
+- Peck
+- Growl
+- Leer
+- Fury Attack
+|Slowpoke
+Level: 17
+IVs: 30 HP
+- Confusion
+|Ekans
+Level: 14
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+|Sandshrew
+Level: 14
+IVs: 30 HP
+- Scratch
+- Sand Attack
+|Nidoran-M
+Level: 21
+IVs: 30 HP
+- Leer
+- Horn Attack
+- Poison Sting
+- Focus Energy
+|Ekans
+Level: 21
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Sandshrew
+Level: 19
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Ekans
+Level: 19
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Rattata
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Nidoran-M
+Level: 18
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+- Poison Sting
+|Nidorino
+Level: 18
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+- Poison Sting
+|Spearow
+Level: 17
+IVs: 30 HP
+- Peck
+- Growl
+- Leer
+- Fury Attack
+|Rattata
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Spearow
+Level: 17
+IVs: 30 HP
+- Peck
+- Growl
+- Leer
+- Fury Attack
+|Weedle
+Level: 6
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Caterpie
+Level: 6
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 7
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Kakuna
+Level: 7
+IVs: 30 HP
+- Harden
+|Weedle
+Level: 7
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Weedle
+Level: 9
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Caterpie
+Level: 10
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 10
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Caterpie
+Level: 10
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 9
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Kakuna
+Level: 9
+IVs: 30 HP
+- Harden
+|Caterpie
+Level: 9
+IVs: 30 HP
+- Tackle
+- String Shot
+|Metapod
+Level: 9
+IVs: 30 HP
+- Harden
+|Caterpie
+Level: 11
+IVs: 30 HP
+- Tackle
+- String Shot
+|Metapod
+Level: 11
+IVs: 30 HP
+- Harden
+|Weedle
+Level: 11
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Kakuna
+Level: 11
+IVs: 30 HP
+- Harden
+|Caterpie
+Level: 10
+IVs: 30 HP
+- Tackle
+- String Shot
+|Metapod
+Level: 10
+IVs: 30 HP
+- Harden
+|Caterpie
+Level: 10
+IVs: 30 HP
+- Tackle
+- String Shot
+|Caterpie
+Level: 14
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 14
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Weedle
+Level: 16
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Caterpie
+Level: 16
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 16
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Butterfree
+Level: 20
+IVs: 30 HP
+- Confusion
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Metapod
+Level: 18
+IVs: 30 HP
+- Harden
+|Caterpie
+Level: 18
+IVs: 30 HP
+- Tackle
+- String Shot
+|Venonat
+Level: 18
+IVs: 30 HP
+- Tackle
+- Disable
+|Beedrill
+Level: 19
+IVs: 30 HP
+- Fury Attack
+- Focus Energy
+|Beedrill
+Level: 19
+IVs: 30 HP
+- Fury Attack
+- Focus Energy
+|Caterpie
+Level: 20
+IVs: 30 HP
+- Tackle
+- String Shot
+|Weedle
+Level: 20
+IVs: 30 HP
+- Poison Sting
+- String Shot
+|Venonat
+Level: 20
+IVs: 30 HP
+- Tackle
+- Disable
+|Pidgey
+Level: 9
+IVs: 30 HP
+- Gust
+- Sand Attack
+|Pidgey
+Level: 9
+IVs: 30 HP
+- Gust
+- Sand Attack
+|Rattata
+Level: 10
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Nidoran-M
+Level: 10
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+|Jigglypuff
+Level: 14
+IVs: 30 HP
+- Sing
+- Pound
+- Disable
+|Paras
+Level: 31
+IVs: 30 HP
+- Scratch
+- Stun Spore
+- Leech Life
+- Spore
+|Paras
+Level: 31
+IVs: 30 HP
+- Scratch
+- Stun Spore
+- Leech Life
+- Spore
+|Parasect
+Level: 31
+IVs: 30 HP
+- Scratch
+- Stun Spore
+- Leech Life
+- Spore
+|Oddish
+Level: 11
+IVs: 30 HP
+- Absorb
+|Bellsprout
+Level: 11
+IVs: 30 HP
+- Vine Whip
+- Growth
+|Clefairy
+Level: 14
+IVs: 30 HP
+- Pound
+- Growl
+- Sing
+|Pidgey
+Level: 16
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Nidoran-F
+Level: 16
+IVs: 30 HP
+- Growl
+- Tackle
+- Scratch
+- Poison Sting
+|Pidgey
+Level: 14
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Nidoran-F
+Level: 14
+IVs: 30 HP
+- Growl
+- Tackle
+- Scratch
+- Poison Sting
+|Nidoran-M
+Level: 15
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+- Poison Sting
+|Nidoran-F
+IVs: 30 HP
+Level: 15
+- Growl
+- Tackle
+- Scratch
+- Poison Sting
+|Oddish
+Level: 13
+IVs: 30 HP
+- Absorb
+|Pidgey
+Level: 13
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Oddish
+Level: 13
+IVs: 30 HP
+- Absorb
+|Pidgey
+Level: 18
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Nidoran-F
+Level: 18
+IVs: 30 HP
+- Growl
+- Tackle
+- Scratch
+- Poison Sting
+|Rattata
+Level: 18
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Pikachu
+Level: 18
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Nidoran-F
+Level: 23
+IVs: 30 HP
+- Tail Whip
+- Growl
+- Scratch
+- Poison Sting
+|Nidorina
+Level: 23
+IVs: 30 HP
+- Tail Whip
+- Growl
+- Scratch
+- Poison Sting
+|Meowth
+Level: 24
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Meowth
+Level: 24
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Meowth
+Level: 24
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Pidgey
+Level: 19
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Nidoran-M
+Level: 19
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+- Poison Sting
+|Meowth
+Level: 19
+IVs: 30 HP
+- Scratch
+- Bite
+- Pay Day
+- Growl
+|Pikachu
+Level: 19
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Clefairy
+Level: 22
+IVs: 30 HP
+- Growl
+- Pound
+- Sing
+- Double Slap
+|Clefairy
+Level: 22
+IVs: 30 HP
+- Growl
+- Pound
+- Sing
+- Double Slap
+|Oddish
+Level: 23
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Gloom
+Level: 23
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bellsprout
+Level: 23
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Weepinbell
+Level: 23
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Machop
+Level: 18
+IVs: 30 HP
+- Karate Chop
+|Shellder
+Level: 18
+IVs: 30 HP
+- Tackle
+- Withdraw
+- Supersonic
+|Machop
+Level: 17
+IVs: 30 HP
+- Karate Chop
+|Tentacool
+Level: 17
+IVs: 30 HP
+- Acid
+- Wrap
+- Supersonic
+|Shellder
+Level: 21
+IVs: 30 HP
+- Tackle
+- Withdraw
+- Supersonic
+|Horsea
+Level: 17
+IVs: 30 HP
+- Bubble
+|Shellder
+Level: 17
+IVs: 30 HP
+- Tackle
+- Withdraw
+|Tentacool
+Level: 17
+IVs: 30 HP
+- Acid
+- Wrap
+- Supersonic
+|Tentacool
+Level: 18
+IVs: 30 HP
+- Acid
+- Wrap
+- Supersonic
+- Poison Sting
+|Staryu
+Level: 18
+IVs: 30 HP
+- Tackle
+- Water Gun
+|Horsea
+Level: 17
+IVs: 30 HP
+- Bubble
+|Horsea
+Level: 17
+- Bubble
+|Horsea
+Level: 17
+IVs: 30 HP
+- Bubble
+|Machop
+Level: 20
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Pikachu
+Level: 21
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Pikachu
+Level: 21
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Diglett
+Level: 11
+IVs: 30 HP
+- Scratch
+|Sandshrew
+Level: 11
+IVs: 30 HP
+- Scratch
+- Sand Attack
+|Rattata
+Level: 14
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Ekans
+Level: 14
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+|Mankey
+Level: 18
+IVs: 30 HP
+- Scratch
+- Leer
+- Karate Chop
+|Squirtle
+Level: 20
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Bubble
+- Water Gun
+|Spearow
+Level: 16
+IVs: 30 HP
+- Peck
+- Growl
+- Leer
+- Fury Attack
+|Raticate
+Level: 16
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Diglett
+Level: 18
+IVs: 30 HP
+- Scratch
+- Growl
+|Diglett
+Level: 18
+IVs: 30 HP
+- Scratch
+- Growl
+|Sandshrew
+Level: 18
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Growlithe
+Level: 21
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Charmander
+Level: 21
+IVs: 30 HP
+- Scratch
+- Growl
+- Ember
+- Leer
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Diglett
+Level: 19
+IVs: 30 HP
+- Scratch
+- Growl
+- Dig
+|Ekans
+Level: 19
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Sandshrew
+Level: 19
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Nidoran-M
+Level: 29
+IVs: 30 HP
+- Horn Attack
+- Focus Energy
+- Fury Attack
+- Poison Sting
+|Nidorino
+Level: 29
+IVs: 30 HP
+- Focus Energy
+- Leer
+- Horn Attack
+- Poison Sting
+|Goldeen
+Level: 19
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+|Rattata
+Level: 16
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Pikachu
+Level: 16
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Pidgey
+Level: 16
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Pidgey
+Level: 16
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Pidgey
+Level: 16
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Bulbasaur
+Level: 22
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Oddish
+Level: 18
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+|Bellsprout
+Level: 18
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Growth
+- Sleep Powder
+|Oddish
+Level: 18
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+|Bellsprout
+Level: 18
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Growth
+- Sleep Powder
+|Meowth
+Level: 23
+IVs: 30 HP
+- Scratch
+- Bite
+- Pay Day
+- Growl
+|Pikachu
+Level: 20
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Clefairy
+Level: 20
+IVs: 30 HP
+- Growl
+- Pound
+- Sing
+- Double Slap
+|Pidgey
+Level: 21
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgeotto
+Level: 21
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Jigglypuff
+Level: 21
+IVs: 30 HP
+- Sing
+- Pound
+- Disable
+- Defense Curl
+|Pidgey
+Level: 21
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Meowth
+Level: 21
+IVs: 30 HP
+- Scratch
+- Bite
+- Pay Day
+- Growl
+|Oddish
+Level: 22
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bulbasaur
+Level: 22
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Bulbasaur
+Level: 24
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Ivysaur
+Level: 24
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Pidgey
+Level: 24
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Meowth
+Level: 24
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Rattata
+Level: 24
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Pikachu
+Level: 24
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Meowth
+Level: 24
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Poliwag
+Level: 30
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Poliwag
+Level: 30
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Pidgey
+Level: 27
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Meowth
+Level: 27
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Pidgey
+Level: 27
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgeotto
+Level: 27
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Goldeen
+Level: 28
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Poliwag
+Level: 28
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Horsea
+Level: 28
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Goldeen
+Level: 31
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Seaking
+Level: 31
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Bellsprout
+Level: 22
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Vine Whip
+- Sleep Powder
+|Clefairy
+Level: 22
+IVs: 30 HP
+- Growl
+- Pound
+- Sing
+- Double Slap
+|Meowth
+Level: 20
+IVs: 30 HP
+- Scratch
+- Bite
+- Pay Day
+- Growl
+|Oddish
+Level: 20
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Pidgey
+Level: 20
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgey
+Level: 19
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Bellsprout
+Level: 19
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Vine Whip
+- Sleep Powder
+|Gloom
+Level: 28
+IVs: 30 HP
+- Acid
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Oddish
+Level: 28
+IVs: 30 HP
+- Acid
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Oddish
+Level: 28
+IVs: 30 HP
+- Acid
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Pikachu
+Level: 29
+IVs: 30 HP
+- Swift
+- Growl
+- Thunder Wave
+- Quick Attack
+|Raichu
+Level: 29
+IVs: 30 HP
+- Thunder Shock
+- Thunder Wave
+- Growl
+|Clefairy
+Level: 33
+IVs: 30 HP
+- Sing
+- Double Slap
+- Minimize
+- Metronome
+|Bellsprout
+Level: 29
+IVs: 30 HP
+- Stun Spore
+- Poison Powder
+- Acid
+- Sleep Powder
+|Oddish
+Level: 29
+IVs: 30 HP
+- Acid
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Tangela
+Level: 29
+IVs: 30 HP
+- Bind
+- Constrict
+- Absorb
+|Tentacool
+Level: 30
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Horsea
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Seel
+Level: 30
+IVs: 30 HP
+- Headbutt
+- Growl
+|Rhyhorn
+Level: 30
+IVs: 30 HP
+- Horn Attack
+- Stomp
+|Lickitung
+Level: 30
+IVs: 30 HP
+- Supersonic
+- Stomp
+- Disable
+- Defense Curl
+|Cubone
+Level: 20
+IVs: 30 HP
+- Bone Club
+- Growl
+|Slowpoke
+Level: 20
+IVs: 30 HP
+- Confusion
+- Disable
+|Slowpoke
+Level: 20
+IVs: 30 HP
+- Confusion
+- Disable
+|Slowpoke
+Level: 20
+IVs: 30 HP
+- Confusion
+- Disable
+|Slowpoke
+Level: 20
+IVs: 30 HP
+- Confusion
+- Disable
+|Charmander
+Level: 22
+IVs: 30 HP
+- Rage
+- Growl
+- Ember
+- Leer
+|Cubone
+Level: 22
+IVs: 30 HP
+- Bone Club
+- Growl
+|Slowpoke
+Level: 25
+IVs: 30 HP
+- Confusion
+- Disable
+- Headbutt
+|Charmeleon
+Level: 40
+IVs: 30 HP
+- Ember
+- Leer
+- Rage
+- Slash
+|Lapras
+Level: 40
+IVs: 30 HP
+- Confuse Ray
+- Body Slam
+- Ice Beam
+- Mist
+|Lickitung
+Level: 40
+IVs: 30 HP
+- Slam
+- Screech
+- Disable
+- Defense Curl
+|Cubone
+Level: 23
+IVs: 30 HP
+- Bone Club
+- Growl
+|Slowpoke
+Level: 23
+IVs: 30 HP
+- Confusion
+- Disable
+- Headbutt
+|Magnemite
+Level: 11
+IVs: 30 HP
+- Tackle
+|Voltorb
+Level: 11
+IVs: 30 HP
+- Tackle
+- Screech
+|Grimer
+Level: 12
+IVs: 30 HP
+- Pound
+- Disable
+|Voltorb
+Level: 12
+IVs: 30 HP
+- Tackle
+- Screech
+|Koffing
+Level: 12
+IVs: 30 HP
+- Tackle
+- Smog
+|Voltorb
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Koffing
+Level: 20
+IVs: 30 HP
+- Tackle
+- Smog
+|Voltorb
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Magnemite
+Level: 20
+IVs: 30 HP
+- Tackle
+|Grimer
+Level: 22
+IVs: 30 HP
+- Pound
+- Disable
+|Muk
+Level: 22
+IVs: 30 HP
+- Pound
+- Poison Gas
+- Disable
+|Grimer
+Level: 22
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 22
+IVs: 30 HP
+- Tackle
+- Smog
+|Magnemite
+Level: 22
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+|Weezing
+Level: 22
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Magnemite
+Level: 20
+IVs: 30 HP
+- Tackle
+|Magnemite
+Level: 20
+IVs: 30 HP
+- Tackle
+|Koffing
+Level: 20
+IVs: 30 HP
+- Tackle
+- Smog
+|Magnemite
+Level: 20
+IVs: 30 HP
+- Tackle
+|Magnemite
+Level: 24
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+|Voltorb
+Level: 24
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Vulpix
+Level: 36
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Confuse Ray
+- Flamethrower
+|Vulpix
+Level: 36
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Confuse Ray
+- Flamethrower
+|Ninetales
+Level: 36
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Tail Whip
+- Ember
+|Ponyta
+Level: 34
+IVs: 30 HP
+- Ember
+- Tail Whip
+- Stomp
+- Growl
+|Charmander
+Level: 34
+IVs: 30 HP
+- Rage
+- Slash
+- Ember
+- Leer
+|Vulpix
+Level: 34
+IVs: 30 HP
+- Tail Whip
+- Quick Attack
+- Roar
+- Confuse Ray
+|Growlithe
+Level: 34
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Rapidash
+Level: 41
+IVs: 30 HP
+- Fire Spin
+- Tail Whip
+- Stomp
+- Growl
+|Growlithe
+Level: 37
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Vulpix
+Level: 37
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Confuse Ray
+- Flamethrower
+|Geodude
+Level: 10
+IVs: 30 HP
+- Tackle
+|Geodude
+Level: 10
+IVs: 30 HP
+- Tackle
+|Onix
+Level: 10
+IVs: 30 HP
+- Tackle
+- Screech
+|Machop
+Level: 15
+IVs: 30 HP
+- Karate Chop
+|Geodude
+Level: 15
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Geodude
+Level: 13
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Geodude
+Level: 13
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Machop
+Level: 13
+IVs: 30 HP
+- Karate Chop
+|Geodude
+Level: 13
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Onix
+Level: 17
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+|Geodude
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Onix
+Level: 21
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Geodude
+Level: 20
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Machop
+Level: 20
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Geodude
+Level: 20
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Geodude
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Onix
+Level: 21
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Onix
+Level: 19
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Graveler
+Level: 19
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Geodude
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Geodude
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Graveler
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Geodude
+Level: 25
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Machop
+Level: 20
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Onix
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Geodude
+Level: 19
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Machop
+Level: 19
+IVs: 30 HP
+- Karate Chop
+|Geodude
+Level: 19
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Geodude
+Level: 19
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Onix
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Onix
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Geodude
+Level: 20
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+|Geodude
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Graveler
+Level: 21
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 25
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 28
+IVs: 30 HP
+- Pound
+- Disable
+|Weezing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Grimer
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 33
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Weezing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Muk
+Level: 33
+IVs: 30 HP
+- Pound
+- Disable
+- Poison Gas
+|Voltorb
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Voltorb
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Weezing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Muk
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+- Poison Gas
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 28
+IVs: 30 HP
+- Pound
+- Disable
+|Grimer
+Level: 28
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+|Muk
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+- Poison Gas
+|Growlithe
+Level: 29
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+- Leer
+|Vulpix
+Level: 29
+IVs: 30 HP
+- Tail Whip
+- Quick Attack
+- Roar
+- Confuse Ray
+|Growlithe
+Level: 33
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Vulpix
+Level: 28
+IVs: 30 HP
+- Tail Whip
+- Quick Attack
+- Roar
+- Confuse Ray
+|Charmander
+Level: 28
+IVs: 30 HP
+- Rage
+- Growl
+- Ember
+- Leer
+|Ponyta
+Level: 28
+IVs: 30 HP
+- Ember
+|Growlithe
+Level: 36
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Vulpix
+Level: 36
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Confuse Ray
+- Flamethrower
+|Ninetales
+Level: 36
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Tail Whip
+- Ember
+|Ponyta
+Level: 41
+IVs: 30 HP
+- Tail Whip
+- Growl
+- Stomp
+- Fire Spin
+|Vulpix
+Level: 37
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Confuse Ray
+- Flamethrower
+|Growlithe
+Level: 37
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Charmander
+Level: 34
+IVs: 30 HP
+- Rage
+- Slash
+- Ember
+- Leer
+|Charmeleon
+Level: 34
+IVs: 30 HP
+- Rage
+- Slash
+- Ember
+- Leer
+|Ninetales
+Level: 38
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Tail Whip
+- Ember
+|Growlithe
+Level: 34
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Ponyta
+Level: 34
+IVs: 30 HP
+- Ember
+- Tail Whip
+- Stomp
+- Growl
+|Voltorb
+Level: 21
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Magnemite
+Level: 21
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+|Magnemite
+Level: 21
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+|Magnemite
+Level: 18
+IVs: 30 HP
+- Tackle
+|Magnemite
+Level: 18
+IVs: 30 HP
+- Tackle
+|Magneton
+Level: 18
+IVs: 30 HP
+- Sonic Boom
+- Tackle
+- Thunder Shock
+|Goldeen
+Level: 17
+IVs: 30 HP
+- Peck
+- Tail Whip
+|Tentacool
+Level: 17
+IVs: 30 HP
+- Acid
+- Wrap
+- Supersonic
+|Goldeen
+Level: 17
+IVs: 30 HP
+- Peck
+- Tail Whip
+|Tentacool
+Level: 17
+IVs: 30 HP
+- Acid
+- Wrap
+- Supersonic
+|Staryu
+Level: 17
+IVs: 30 HP
+- Tackle
+- Water Gun
+|Shellder
+Level: 17
+IVs: 30 HP
+- Tackle
+- Withdraw
+|Goldeen
+Level: 22
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+|Poliwag
+Level: 22
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+|Goldeen
+Level: 22
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+|Tentacool
+Level: 24
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Goldeen
+Level: 24
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Goldeen
+Level: 27
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Poliwag
+Level: 21
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+|Shellder
+Level: 21
+IVs: 30 HP
+- Tackle
+- Withdraw
+- Supersonic
+|Goldeen
+Level: 21
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+|Horsea
+Level: 21
+IVs: 30 HP
+- Bubble
+- Smokescreen
+|Seaking
+Level: 28
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Goldeen
+Level: 28
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Seaking
+Level: 28
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Seaking
+Level: 28
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Shellder
+Level: 31
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Cloyster
+Level: 31
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 27
+IVs: 30 HP
+- Splash
+- Tackle
+|Seaking
+Level: 33
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Goldeen
+Level: 33
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Magikarp
+Level: 24
+IVs: 30 HP
+- Splash
+- Tackle
+|Magikarp
+Level: 24
+IVs: 30 HP
+- Splash
+- Tackle
+|Horsea
+Level: 16
+IVs: 30 HP
+- Bubble
+|Shellder
+Level: 16
+IVs: 30 HP
+- Tackle
+- Withdraw
+|Tentacool
+Level: 30
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Shellder
+Level: 30
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Goldeen
+Level: 29
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Horsea
+Level: 29
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Staryu
+Level: 29
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+- Recover
+|Poliwag
+Level: 30
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Poliwhirl
+Level: 30
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Horsea
+Level: 27
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Tentacool
+Level: 27
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Tentacool
+Level: 27
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Goldeen
+Level: 27
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Goldeen
+Level: 29
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Shellder
+Level: 29
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Tackle
+|Seaking
+Level: 29
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Horsea
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Horsea
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Tentacool
+Level: 27
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Tentacool
+Level: 27
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Staryu
+Level: 27
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+- Recover
+|Horsea
+Level: 27
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Tentacruel
+Level: 27
+IVs: 30 HP
+- Supersonic
+- Wrap
+- Poison Sting
+- Water Gun
+|Shellder
+Level: 31
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Cloyster
+Level: 31
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Staryu
+Level: 35
+IVs: 30 HP
+- Swift
+- Water Gun
+- Harden
+- Recover
+|Horsea
+Level: 28
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Horsea
+Level: 28
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Seadra
+Level: 28
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Horsea
+Level: 28
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+|Seadra
+Level: 33
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Tentacruel
+Level: 33
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Starmie
+Level: 37
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+|Staryu
+Level: 33
+IVs: 30 HP
+- Swift
+- Water Gun
+- Harden
+- Recover
+|Wartortle
+Level: 33
+IVs: 30 HP
+- Bubble
+- Water Gun
+- Bite
+- Withdraw
+|Poliwhirl
+Level: 32
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Tentacool
+Level: 32
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Seadra
+Level: 32
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Machop
+Level: 28
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Mankey
+Level: 28
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 28
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Mankey
+Level: 29
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Machop
+Level: 33
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Mankey
+Level: 29
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Primeape
+Level: 29
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Machoke
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Machoke
+Level: 33
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Mankey
+Level: 26
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Scratch
+|Mankey
+Level: 26
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Scratch
+|Machoke
+Level: 26
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Machop
+Level: 26
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Primeape
+Level: 29
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machoke
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Tentacool
+Level: 31
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Tentacool
+Level: 31
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Tentacruel
+Level: 31
+IVs: 30 HP
+- Wrap
+- Poison Sting
+- Water Gun
+- Constrict
+|Poliwag
+Level: 18
+IVs: 30 HP
+- Bubble
+- Hypnosis
+|Horsea
+Level: 18
+IVs: 30 HP
+- Bubble
+|Bellsprout
+Level: 18
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Growth
+- Sleep Powder
+|Oddish
+Level: 18
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+|Voltorb
+Level: 18
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Magnemite
+Level: 18
+IVs: 30 HP
+- Tackle
+|Growlithe
+Level: 18
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Vulpix
+Level: 18
+IVs: 30 HP
+- Ember
+- Tail Whip
+- Quick Attack
+|Poliwag
+Level: 22
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+|Poliwag
+Level: 22
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+|Poliwhirl
+Level: 22
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+|Onix
+Level: 22
+IVs: 30 HP
+- Tackle
+- Screech
+- Bind
+- Rock Throw
+|Geodude
+Level: 22
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Graveler
+Level: 22
+IVs: 30 HP
+- Tackle
+- Defense Curl
+- Rock Throw
+- Self-Destruct
+|Growlithe
+Level: 24
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+- Leer
+|Vulpix
+Level: 24
+IVs: 30 HP
+- Ember
+- Tail Whip
+- Quick Attack
+- Roar
+|Oddish
+Level: 21
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bellsprout
+Level: 21
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Oddish
+Level: 21
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bellsprout
+Level: 21
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bellsprout
+Level: 24
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Bellsprout
+Level: 24
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Exeggcute
+Level: 26
+IVs: 30 HP
+- Barrage
+- Hypnosis
+- Reflect
+|Rattata
+Level: 27
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Pikachu
+Level: 27
+IVs: 30 HP
+- Swift
+- Growl
+- Thunder Wave
+- Quick Attack
+|Rattata
+Level: 27
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Clefairy
+Level: 29
+IVs: 30 HP
+- Sing
+- Double Slap
+- Minimize
+- Growl
+|Meowth
+Level: 29
+IVs: 30 HP
+- Growl
+- Bite
+- Pay Day
+- Screech
+|Seaking
+Level: 35
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Shellder
+Level: 30
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Shellder
+Level: 30
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Cloyster
+Level: 30
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Poliwag
+Level: 31
+IVs: 30 HP
+- Body Slam
+- Hypnosis
+- Water Gun
+- Double Slap
+|Seaking
+Level: 31
+IVs: 30 HP
+- Fury Attack
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Pidgeotto
+Level: 29
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Wigglytuff
+Level: 29
+IVs: 30 HP
+- Defense Curl
+- Disable
+- Double Slap
+- Sing
+|Bulbasaur
+Level: 29
+IVs: 30 HP
+- Leech Seed
+- Razor Leaf
+- Vine Whip
+- Poison Powder
+|Ivysaur
+Level: 29
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Weepinbell
+Level: 33
+IVs: 30 HP
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+- Acid
+|Bellsprout
+Level: 33
+IVs: 30 HP
+- Stun Spore
+- Acid
+- Razor Leaf
+- Sleep Powder
+|Weepinbell
+Level: 33
+IVs: 30 HP
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+- Acid
+|Poliwag
+Level: 27
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Goldeen
+Level: 27
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Seaking
+Level: 27
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Goldeen
+Level: 27
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Poliwag
+Level: 27
+IVs: 30 HP
+- Bubble
+- Hypnosis
+- Water Gun
+- Double Slap
+|Goldeen
+Level: 30
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Seaking
+Level: 30
+IVs: 30 HP
+- Peck
+- Tail Whip
+- Supersonic
+- Horn Attack
+|Staryu
+Level: 29
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+- Recover
+|Staryu
+Level: 29
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+- Recover
+|Staryu
+Level: 29
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+- Recover
+|Seadra
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Horsea
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Seadra
+Level: 30
+IVs: 30 HP
+- Bubble
+- Smokescreen
+- Leer
+- Water Gun
+|Kadabra
+Level: 31
+IVs: 30 HP
+- Confusion
+- Disable
+- Psybeam
+- Recover
+|Slowpoke
+Level: 31
+IVs: 30 HP
+- Confusion
+- Disable
+- Headbutt
+- Growl
+|Mr. Mime
+Level: 31
+IVs: 30 HP
+- Barrier
+- Confusion
+- Light Screen
+- Double Slap
+|Kadabra
+Level: 31
+IVs: 30 HP
+- Confusion
+- Disable
+- Psybeam
+- Recover
+|Mr. Mime
+Level: 34
+IVs: 30 HP
+- Barrier
+- Confusion
+- Light Screen
+- Double Slap
+|Kadabra
+Level: 34
+IVs: 30 HP
+- Confusion
+- Disable
+- Psybeam
+- Recover
+|Slowpoke
+Level: 33
+IVs: 30 HP
+- Water Gun
+- Disable
+- Headbutt
+- Growl
+|Slowpoke
+Level: 33
+IVs: 30 HP
+- Water Gun
+- Disable
+- Headbutt
+- Growl
+|Slowbro
+Level: 33
+IVs: 30 HP
+- Water Gun
+- Disable
+- Headbutt
+- Growl
+|Slowbro
+Level: 38
+IVs: 30 HP
+- Water Gun
+- Withdraw
+- Headbutt
+- Growl
+|Voltorb
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Magnemite
+Level: 20
+IVs: 30 HP
+- Tackle
+|Voltorb
+Level: 20
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Voltorb
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Electrode
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Kadabra
+Level: 29
+IVs: 30 HP
+- Teleport
+- Confusion
+- Disable
+- Psybeam
+|Mr. Mime
+Level: 29
+IVs: 30 HP
+- Barrier
+- Confusion
+- Light Screen
+|Drowzee
+Level: 41
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Psychic
+- Meditate
+|Hypno
+Level: 41
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Psychic
+- Confusion
+|Kadabra
+Level: 41
+IVs: 30 HP
+- Psychic
+- Psybeam
+- Recover
+- Disable
+|Kadabra
+Level: 41
+IVs: 30 HP
+- Psychic
+- Psybeam
+- Recover
+- Disable
+|Drowzee
+Level: 31
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Disable
+- Confusion
+|Drowzee
+Level: 31
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Disable
+- Confusion
+|Kadabra
+Level: 31
+IVs: 30 HP
+- Teleport
+- Confusion
+- Disable
+- Psybeam
+|Drowzee
+Level: 31
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Disable
+- Confusion
+|Drowzee
+Level: 34
+IVs: 30 HP
+- Confusion
+- Headbutt
+- Poison Gas
+- Psychic
+|Hypno
+Level: 34
+IVs: 30 HP
+- Confusion
+- Headbutt
+- Poison Gas
+- Disable
+|Mr. Mime
+Level: 48
+IVs: 30 HP
+- Meditate
+- Light Screen
+- Substitute
+- Double Slap
+|Hypno
+Level: 33
+IVs: 30 HP
+- Confusion
+- Headbutt
+- Poison Gas
+- Disable
+|Hypno
+Level: 38
+IVs: 30 HP
+- Confusion
+- Headbutt
+- Poison Gas
+- Psychic
+|Drowzee
+Level: 34
+IVs: 30 HP
+- Confusion
+- Headbutt
+- Poison Gas
+- Psychic
+|Kadabra
+Level: 34
+IVs: 30 HP
+- Teleport
+- Confusion
+- Disable
+- Psybeam
+|Sandslash
+Level: 34
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+- Poison Sting
+|Arbok
+Level: 34
+IVs: 30 HP
+- Leer
+- Poison Sting
+- Bite
+- Glare
+|Arbok
+Level: 33
+IVs: 30 HP
+- Leer
+- Poison Sting
+- Bite
+- Glare
+|Sandslash
+Level: 33
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+- Poison Sting
+|Arbok
+Level: 33
+IVs: 30 HP
+- Leer
+- Poison Sting
+- Bite
+- Glare
+|Rhyhorn
+Level: 43
+IVs: 30 HP
+- Horn Attack
+- Stomp
+- Tail Whip
+- Fury Attack
+|Arbok
+Level: 39
+IVs: 30 HP
+- Screech
+- Poison Sting
+- Bite
+- Glare
+|Tauros
+Level: 39
+IVs: 30 HP
+- Tackle
+- Stomp
+- Tail Whip
+- Leer
+|Persian
+Level: 44
+IVs: 30 HP
+- Bite
+- Pay Day
+- Screech
+- Fury Swipes
+|Golduck
+Level: 44
+IVs: 30 HP
+- Scratch
+- Tail Whip
+- Disable
+- Confusion
+|Rhyhorn
+Level: 42
+IVs: 30 HP
+- Horn Attack
+- Stomp
+- Tail Whip
+- Fury Attack
+|Primeape
+Level: 42
+IVs: 30 HP
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+- Seismic Toss
+|Arbok
+Level: 42
+IVs: 30 HP
+- Screech
+- Poison Sting
+- Bite
+- Glare
+|Tauros
+Level: 42
+IVs: 30 HP
+- Tackle
+- Stomp
+- Tail Whip
+- Leer
+|Pidgey
+Level: 29
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Wing Attack
+|Pidgeotto
+Level: 29
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Spearow
+Level: 25
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Pidgey
+Level: 25
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Pidgey
+Level: 25
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Spearow
+Level: 25
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Spearow
+Level: 25
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Pidgey
+Level: 26
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgeotto
+Level: 26
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Spearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Fearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Farfetch’d
+Level: 33
+IVs: 30 HP
+- Leer
+- Fury Attack
+- Swords Dance
+- Agility
+|Spearow
+Level: 29
+IVs: 30 HP
+- Mirror Move
+- Drill Peck
+- Leer
+- Fury Attack
+|Fearow
+Level: 29
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Pidgeotto
+Level: 26
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Farfetch’d
+Level: 26
+IVs: 30 HP
+- Leer
+- Fury Attack
+- Swords Dance
+- Sand Attack
+|Doduo
+Level: 26
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Pidgey
+Level: 26
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Dodrio
+Level: 28
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Doduo
+Level: 28
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Doduo
+Level: 28
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Spearow
+Level: 29
+IVs: 30 HP
+- Mirror Move
+- Drill Peck
+- Leer
+- Fury Attack
+|Fearow
+Level: 29
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Dodrio
+Level: 34
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+- Drill Peck
+|Spearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Spearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Fearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Spearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Fearow
+Level: 30
+IVs: 30 HP
+- Growl
+- Leer
+- Fury Attack
+- Mirror Move
+|Fearow
+Level: 30
+IVs: 30 HP
+- Growl
+- Leer
+- Fury Attack
+- Mirror Move
+|Pidgeotto
+Level: 30
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Pidgeotto
+Level: 39
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Wing Attack
+|Pidgeotto
+Level: 39
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Wing Attack
+|Pidgey
+Level: 39
+IVs: 30 HP
+- Agility
+- Quick Attack
+- Whirlwind
+- Wing Attack
+|Pidgeotto
+Level: 39
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Wing Attack
+|Farfetch’d
+Level: 42
+IVs: 30 HP
+- Fury Attack
+- Swords Dance
+- Agility
+- Slash
+|Fearow
+Level: 42
+IVs: 30 HP
+- Drill Peck
+- Leer
+- Fury Attack
+- Mirror Move
+|Pidgey
+Level: 28
+IVs: 30 HP
+- Wing Attack
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Doduo
+Level: 28
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Pidgeotto
+Level: 28
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgey
+Level: 26
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Pidgey
+Level: 26
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Spearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Fearow
+Level: 26
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Pidgeotto
+Level: 29
+IVs: 30 HP
+- Sand Attack
+- Quick Attack
+- Whirlwind
+- Gust
+|Fearow
+Level: 29
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Spearow
+Level: 28
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Doduo
+Level: 28
+IVs: 30 HP
+- Peck
+- Growl
+- Fury Attack
+|Fearow
+Level: 28
+IVs: 30 HP
+- Mirror Move
+- Growl
+- Leer
+- Fury Attack
+|Hitmonlee
+Level: 37
+IVs: 30 HP
+- Double Kick
+- Meditate
+- Rolling Kick
+|Hitmonchan
+Level: 37
+IVs: 30 HP
+- Agility
+- Comet Punch
+- Fire Punch
+|Mankey
+Level: 31
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Mankey
+Level: 31
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Primeape
+Level: 31
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 32
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 32
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Primeape
+Level: 36
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 31
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Mankey
+Level: 31
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Primeape
+Level: 31
+IVs: 30 HP
+- Leer
+- Karate Chop
+- Fury Swipes
+- Focus Energy
+|Machop
+Level: 40
+IVs: 30 HP
+- Seismic Toss
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 40
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 43
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 38
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machop
+Level: 38
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 38
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 43
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Machop
+Level: 43
+IVs: 30 HP
+- Seismic Toss
+- Low Kick
+- Leer
+- Focus Energy
+|Machoke
+Level: 43
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Squirtle
+Level: 5
+IVs: 30 HP
+- Tackle
+- Tail Whip
+|Bulbasaur
+Level: 5
+IVs: 30 HP
+- Tackle
+- Growl
+|Charmander
+Level: 5
+IVs: 30 HP
+- Scratch
+- Growl
+|Pidgey
+Level: 9
+IVs: 30 HP
+- Gust
+- Sand Attack
+|Squirtle
+Level: 8
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Bubble
+|Bulbasaur
+Level: 8
+IVs: 30 HP
+- Tackle
+- Growl
+- Leech Seed
+|Charmander
+Level: 8
+IVs: 30 HP
+- Scratch
+- Growl
+|Pidgeotto
+Level: 18
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Abra
+Level: 15
+IVs: 30 HP
+- Teleport
+|Rattata
+Level: 15
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Squirtle
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Bubble
+- Water Gun
+|Bulbasaur
+Level: 17
+IVs: 30 HP
+- Tackle
+- Growl
+- Leech Seed
+- Vine Whip
+|Charmander
+Level: 17
+IVs: 30 HP
+- Scratch
+- Growl
+- Ember
+- Leer
+|Tauros
+Level: 66
+IVs: 30 HP
+- Rage
+- Tail Whip
+- Leer
+- Take Down
+|Exeggutor
+Level: 67
+IVs: 30 HP
+- Barrage
+- Hypnosis
+- Stomp
+|Arcanine
+Level: 68
+IVs: 30 HP
+- Ember
+- Roar
+- Leer
+- Take Down
+|Blastoise
+Level: 69
+IVs: 30 HP
+- Withdraw
+- Bite
+- Skull Bash
+- Hydro Pump
+|Venusaur
+Level: 69
+IVs: 30 HP
+- Razor Leaf
+- Sleep Powder
+- Solar Beam
+- Growth
+|Charizard
+Level: 69
+IVs: 30 HP
+- Flamethrower
+- Rage
+- Fire Spin
+- Slash
+|Gyarados
+Level: 70
+IVs: 30 HP
+- Hyper Beam
+- Dragon Rage
+- Leer
+- Hydro Pump
+|Koffing
+Level: 34
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Voltorb
+Level: 34
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Grimer
+Level: 26
+IVs: 30 HP
+- Pound
+- Disable
+|Weezing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Magnemite
+Level: 28
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Voltorb
+Level: 28
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Magneton
+Level: 28
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Electrode
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Weezing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Electrode
+Level: 33
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Magneton
+Level: 26
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Weezing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Magnemite
+Level: 26
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Voltorb
+Level: 25
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Magneton
+Level: 25
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Magnemite
+Level: 25
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Koffing
+Level: 25
+IVs: 30 HP
+- Tackle
+- Smog
+|Electrode
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Muk
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+- Poison Gas
+|Grimer
+Level: 29
+IVs: 30 HP
+- Pound
+- Disable
+|Electrode
+Level: 29
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Voltorb
+Level: 28
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Magneton
+Level: 28
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+|Magnemite
+Level: 29
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+- Supersonic
+|Koffing
+Level: 29
+IVs: 30 HP
+- Tackle
+- Smog
+|Magnemite
+Level: 33
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+- Supersonic
+|Magneton
+Level: 33
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+- Supersonic
+|Voltorb
+Level: 33
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Magnemite
+Level: 34
+IVs: 30 HP
+- Tackle
+- Sonic Boom
+- Thunder Shock
+- Supersonic
+|Electrode
+Level: 34
+IVs: 30 HP
+- Light Screen
+- Screech
+- Sonic Boom
+- Self-Destruct
+|Onix
+Level: 25
+IVs: 30 HP
+- Rage
+- Screech
+- Bind
+- Rock Throw
+|Rhyhorn
+Level: 24
+IVs: 30 HP
+- Horn Attack
+|Kangaskhan
+Level: 29
+IVs: 30 HP
+- Comet Punch
+- Rage
+- Bite
+|Nidorino
+Level: 37
+IVs: 30 HP
+- Horn Attack
+- Poison Sting
+- Focus Energy
+- Fury Attack
+|Kangaskhan
+Level: 35
+IVs: 30 HP
+- Comet Punch
+- Rage
+- Bite
+- Tail Whip
+|Rhyhorn
+Level: 37
+IVs: 30 HP
+- Horn Attack
+- Stomp
+- Tail Whip
+|Nidoqueen
+Level: 41
+IVs: 30 HP
+- Scratch
+- Tail Whip
+- Body Slam
+- Poison Sting
+|Rhyhorn
+Level: 45
+IVs: 30 HP
+- Stomp
+- Tail Whip
+- Fury Attack
+- Horn Drill
+|Dugtrio
+Level: 42
+IVs: 30 HP
+- Growl
+- Dig
+- Sand Attack
+- Slash
+|Nidoqueen
+Level: 44
+IVs: 30 HP
+- Scratch
+- Tail Whip
+- Body Slam
+- Poison Sting
+|Nidoking
+Level: 45
+IVs: 30 HP
+- Tackle
+- Horn Attack
+- Thrash
+- Poison Sting
+|Rhydon
+Level: 50
+IVs: 30 HP
+- Stomp
+- Fissure
+- Fury Attack
+- Horn Drill
+|Rattata
+Level: 13
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Zubat
+Level: 13
+IVs: 30 HP
+- Leech Life
+- Supersonic
+|Sandshrew
+Level: 11
+IVs: 30 HP
+- Scratch
+- Sand Attack
+|Rattata
+Level: 11
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+|Zubat
+Level: 11
+IVs: 30 HP
+- Leech Life
+- Supersonic
+|Zubat
+Level: 12
+IVs: 30 HP
+- Leech Life
+- Supersonic
+|Ekans
+Level: 12
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+|Raticate
+Level: 16
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Machop
+Level: 17
+IVs: 30 HP
+- Karate Chop
+|Drowzee
+Level: 17
+IVs: 30 HP
+- Pound
+- Hypnosis
+- Disable
+- Confusion
+|Ekans
+Level: 15
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+|Zubat
+Level: 15
+- Leech Life
+- Supersonic
+- Bite
+|Raticate
+Level: 20
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Zubat
+Level: 20
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+|Drowzee
+Level: 21
+IVs: 30 HP
+- Pound
+- Hypnosis
+- Disable
+- Confusion
+|Machop
+Level: 21
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Raticate
+Level: 21
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 21
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Grimer
+Level: 20
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 20
+IVs: 30 HP
+- Tackle
+- Smog
+|Koffing
+Level: 20
+IVs: 30 HP
+- Tackle
+- Smog
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 19
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Grimer
+Level: 22
+IVs: 30 HP
+- Pound
+- Disable
+|Koffing
+Level: 22
+IVs: 30 HP
+- Tackle
+- Smog
+|Zubat
+Level: 17
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+|Koffing
+Level: 17
+IVs: 30 HP
+- Tackle
+- Smog
+|Grimer
+Level: 17
+IVs: 30 HP
+- Pound
+- Disable
+|Zubat
+Level: 17
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+|Raticate
+Level: 17
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 20
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 20
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Drowzee
+Level: 21
+IVs: 30 HP
+- Pound
+- Hypnosis
+- Disable
+- Confusion
+|Machop
+Level: 21
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Machop
+Level: 21
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+|Sandshrew
+Level: 23
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Ekans
+Level: 23
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Sandslash
+Level: 23
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Ekans
+Level: 23
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Sandshrew
+Level: 23
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+|Arbok
+Level: 23
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Koffing
+Level: 21
+IVs: 30 HP
+- Tackle
+- Smog
+|Zubat
+Level: 21
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Golbat
+Level: 25
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Drowzee
+Level: 26
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Zubat
+Level: 23
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Rattata
+Level: 23
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Raticate
+Level: 23
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Zubat
+Level: 23
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Drowzee
+Level: 26
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Cubone
+Level: 29
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+|Zubat
+Level: 29
+IVs: 30 HP
+- Wing Attack
+- Supersonic
+- Bite
+- Confuse Ray
+|Golbat
+Level: 25
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Raticate
+Level: 25
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Raticate
+Level: 28
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Hypno
+Level: 28
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Raticate
+Level: 28
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Machop
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Drowzee
+Level: 29
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Ekans
+Level: 28
+IVs: 30 HP
+- Glare
+- Leer
+- Poison Sting
+- Bite
+|Zubat
+Level: 28
+IVs: 30 HP
+- Wing Attack
+- Supersonic
+- Bite
+- Confuse Ray
+|Cubone
+Level: 28
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+|Arbok
+Level: 33
+IVs: 30 HP
+- Glare
+- Leer
+- Poison Sting
+- Bite
+|Hypno
+Level: 33
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Disable
+- Confusion
+|Machop
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Machoke
+Level: 29
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Zubat
+Level: 28
+IVs: 30 HP
+- Wing Attack
+- Supersonic
+- Bite
+- Confuse Ray
+|Zubat
+Level: 28
+IVs: 30 HP
+- Wing Attack
+- Supersonic
+- Bite
+- Confuse Ray
+|Golbat
+Level: 29
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Raticate
+Level: 26
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Arbok
+Level: 26
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Koffing
+Level: 26
+IVs: 30 HP
+- Tackle
+- Smog
+|Golbat
+Level: 26
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Cubone
+Level: 29
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+|Cubone
+Level: 29
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+|Sandshrew
+Level: 29
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+- Poison Sting
+|Sandslash
+Level: 29
+IVs: 30 HP
+- Scratch
+- Sand Attack
+- Slash
+- Poison Sting
+|Raticate
+Level: 26
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Zubat
+Level: 26
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Golbat
+Level: 26
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Rattata
+Level: 26
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Weezing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+|Golbat
+Level: 28
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Koffing
+Level: 28
+IVs: 30 HP
+- Tackle
+- Smog
+|Drowzee
+Level: 28
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Grimer
+Level: 28
+IVs: 30 HP
+- Pound
+- Disable
+|Machop
+Level: 28
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+|Golbat
+Level: 28
+IVs: 30 HP
+- Screech
+- Supersonic
+- Bite
+- Confuse Ray
+|Drowzee
+Level: 28
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Hypno
+Level: 28
+IVs: 30 HP
+- Headbutt
+- Hypnosis
+- Disable
+- Confusion
+|Machoke
+Level: 33
+IVs: 30 HP
+- Karate Chop
+- Low Kick
+- Leer
+- Focus Energy
+|Rattata
+Level: 25
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Rattata
+Level: 25
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Zubat
+Level: 25
+IVs: 30 HP
+- Leech Life
+- Supersonic
+- Bite
+- Confuse Ray
+|Rattata
+Level: 25
+IVs: 30 HP
+- Focus Energy
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Ekans
+Level: 25
+IVs: 30 HP
+- Wrap
+- Leer
+- Poison Sting
+- Bite
+|Cubone
+Level: 32
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+- Focus Energy
+|Drowzee
+Level: 32
+IVs: 30 HP
+- Headbutt
+- Poison Gas
+- Disable
+- Confusion
+|Marowak
+Level: 32
+IVs: 30 HP
+- Bone Club
+- Growl
+- Leer
+|Nidorino
+Level: 39
+IVs: 30 HP
+- Horn Attack
+- Poison Sting
+- Focus Energy
+- Fury Attack
+|Nidoking
+Level: 39
+IVs: 30 HP
+- Tackle
+- Horn Attack
+- Thrash
+- Poison Sting
+|Exeggutor
+Level: 43
+IVs: 30 HP
+- Barrage
+- Hypnosis
+- Stomp
+|Cloyster
+Level: 43
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Arcanine
+Level: 43
+IVs: 30 HP
+- Ember
+- Roar
+- Leer
+- Take Down
+|Kingler
+Level: 43
+IVs: 30 HP
+- Vice Grip
+- Guillotine
+- Stomp
+- Crabhammer
+|Tentacruel
+Level: 43
+IVs: 30 HP
+- Barrier
+- Poison Sting
+- Water Gun
+- Constrict
+|Blastoise
+Level: 43
+IVs: 30 HP
+- Water Gun
+- Bite
+- Withdraw
+- Skull Bash
+|Kingler
+Level: 45
+IVs: 30 HP
+- Vice Grip
+- Guillotine
+- Stomp
+- Crabhammer
+|Starmie
+Level: 45
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Harden
+|Ivysaur
+Level: 42
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Wartortle
+Level: 42
+IVs: 30 HP
+- Water Gun
+- Bite
+- Withdraw
+- Skull Bash
+|Charmeleon
+Level: 42
+IVs: 30 HP
+- Leer
+- Rage
+- Slash
+- Flamethrower
+|Charizard
+Level: 42
+IVs: 30 HP
+- Leer
+- Rage
+- Slash
+- Ember
+|Ivysaur
+Level: 44
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Wartortle
+Level: 44
+IVs: 30 HP
+- Water Gun
+- Bite
+- Withdraw
+- Skull Bash
+|Charmeleon
+Level: 44
+IVs: 30 HP
+- Leer
+- Rage
+- Slash
+- Flamethrower
+|Nidoking
+Level: 49
+IVs: 30 HP
+- Tackle
+- Horn Attack
+- Thrash
+- Poison Sting
+|Kingler
+Level: 44
+IVs: 30 HP
+- Vice Grip
+- Guillotine
+- Stomp
+- Crabhammer
+|Cloyster
+Level: 44
+IVs: 30 HP
+- Withdraw
+- Supersonic
+- Clamp
+- Aurora Beam
+|Sandslash
+Level: 39
+IVs: 30 HP
+- Sand Attack
+- Slash
+- Poison Sting
+- Swift
+|Dugtrio
+Level: 39
+IVs: 30 HP
+- Growl
+- Dig
+- Sand Attack
+- Slash
+|Rhyhorn
+Level: 43
+IVs: 30 HP
+- Horn Attack
+- Stomp
+- Tail Whip
+- Fury Attack
+|Weepinbell
+Level: 24
+IVs: 30 HP
+- Wrap
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Gloom
+Level: 24
+IVs: 30 HP
+- Absorb
+- Poison Powder
+- Stun Spore
+- Sleep Powder
+|Ivysaur
+Level: 24
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Bellsprout
+Level: 43
+IVs: 30 HP
+- Stun Spore
+- Acid
+- Razor Leaf
+- Slam
+|Weepinbell
+Level: 43
+IVs: 30 HP
+- Stun Spore
+- Acid
+- Razor Leaf
+- Sleep Powder
+|Victreebel
+Level: 43
+IVs: 30 HP
+- Poison Powder
+- Razor Leaf
+- Sleep Powder
+- Wrap
+|Parasect
+Level: 43
+IVs: 30 HP
+- Stun Spore
+- Leech Life
+- Spore
+- Growth
+|Dewgong
+Level: 43
+IVs: 30 HP
+- Headbutt
+- Growl
+- Aurora Beam
+|Chansey
+Level: 43
+IVs: 30 HP
+- Double Slap
+- Sing
+- Growl
+- Minimize
+|Vileplume
+Level: 46
+IVs: 30 HP
+- Petal Dance
+- Sleep Powder
+- Stun Spore
+- Poison Powder
+|Butterfree
+Level: 46
+IVs: 30 HP
+- Sleep Powder
+- Supersonic
+- Whirlwind
+- Psybeam
+|Persian
+Level: 44
+IVs: 30 HP
+- Bite
+- Pay Day
+- Screech
+- Fury Swipes
+|Ninetales
+Level: 44
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Tail Whip
+- Ember
+|Ivysaur
+Level: 45
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Venusaur
+Level: 45
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Nidorina
+Level: 45
+IVs: 30 HP
+- Poison Sting
+- Tail Whip
+- Bite
+- Fury Swipes
+|Nidoqueen
+Level: 45
+IVs: 30 HP
+- Scratch
+- Tail Whip
+- Body Slam
+- Poison Sting
+|Persian
+Level: 43
+IVs: 30 HP
+- Bite
+- Pay Day
+- Screech
+- Fury Swipes
+|Ninetales
+Level: 43
+IVs: 30 HP
+- Quick Attack
+- Roar
+- Tail Whip
+- Ember
+|Raichu
+Level: 43
+IVs: 30 HP
+- Thunder Shock
+- Thunder Wave
+- Growl
+|Onix
+Level: 53
+IVs: 30 HP
+- Rage
+- Rock Throw
+- Slam
+- Harden
+|Hitmonchan
+Level: 55
+IVs: 30 HP
+- Ice Punch
+- Thunder Punch
+- Mega Punch
+- Counter
+|Hitmonlee
+Level: 55
+IVs: 30 HP
+- Focus Energy
+- Jump Kick
+- Mega Kick
+- Hi Jump Kick
+|Onix
+Level: 56
+IVs: 30 HP
+- Rage
+- Rock Throw
+- Slam
+- Harden
+|Machamp
+Level: 58
+IVs: 30 HP
+- Leer
+- Focus Energy
+- Submission
+- Fissure
+|Geodude
+Level: 12
+IVs: 30 HP
+- Tackle
+- Defense Curl
+|Onix
+Level: 14
+IVs: 30 HP
+- Tackle
+- Screech
+- Bide
+|Staryu
+Level: 18
+IVs: 30 HP
+- Tackle
+- Water Gun
+|Starmie
+Level: 21
+IVs: 30 HP
+- Tackle
+- Water Gun
+- Bubble Beam
+|Voltorb
+Level: 21
+IVs: 30 HP
+- Tackle
+- Screech
+- Sonic Boom
+|Pikachu
+Level: 18
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Raichu
+Level: 24
+IVs: 30 HP
+- Thunder Shock
+- Thunderbolt
+- Growl
+|Victreebel
+Level: 29
+IVs: 30 HP
+- Poison Powder
+- Razor Leaf
+- Sleep Powder
+- Wrap
+|Tangela
+Level: 24
+IVs: 30 HP
+- Bind
+- Constrict
+|Vileplume
+Level: 29
+IVs: 30 HP
+- Petal Dance
+- Sleep Powder
+- Mega Drain
+- Poison Powder
+|Koffing
+Level: 37
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+- Smokescreen
+|Muk
+Level: 39
+IVs: 30 HP
+- Disable
+- Poison Gas
+- Minimize
+- Sludge
+|Koffing
+Level: 37
+IVs: 30 HP
+- Tackle
+- Smog
+- Sludge
+- Smokescreen
+|Weezing
+Level: 43
+IVs: 30 HP
+- Toxic
+- Smog
+- Sludge
+- Self-Destruct
+|Growlithe
+Level: 42
+IVs: 30 HP
+- Take Down
+- Agility
+- Ember
+- Leer
+|Ponyta
+Level: 40
+IVs: 30 HP
+- Tail Whip
+- Growl
+- Stomp
+- Fire Spin
+|Rapidash
+Level: 42
+IVs: 30 HP
+- Tail Whip
+- Growl
+- Stomp
+- Fire Spin
+|Arcanine
+Level: 47
+IVs: 30 HP
+- Ember
+- Roar
+- Fire Blast
+- Take Down
+|Kadabra
+Level: 38
+IVs: 30 HP
+- Disable
+- Psybeam
+- Recover
+- Psychic
+|Mr. Mime
+Level: 37
+IVs: 30 HP
+- Confusion
+- Barrier
+- Light Screen
+- Double Slap
+|Venomoth
+Level: 38
+IVs: 30 HP
+- Poison Powder
+- Leech Life
+- Stun Spore
+- Psybeam
+|Alakazam
+Level: 43
+IVs: 30 HP
+- Disable
+- Psybeam
+- Recover
+- Psywave
+|Growlithe
+Level: 18
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Growlithe
+Level: 18
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Nidoran-M
+Level: 19
+IVs: 30 HP
+- Leer
+- Tackle
+- Horn Attack
+- Poison Sting
+|Nidoran-F
+Level: 19
+IVs: 30 HP
+- Growl
+- Tackle
+- Scratch
+- Poison Sting
+|Pikachu
+Level: 23
+IVs: 30 HP
+- Thunder Shock
+- Growl
+- Thunder Wave
+- Quick Attack
+|Primeape
+Level: 48
+IVs: 30 HP
+- Seismic Toss
+- Thrash
+- Fury Swipes
+- Focus Energy
+|Growlithe
+Level: 17
+IVs: 30 HP
+- Bite
+- Roar
+|Ponyta
+Level: 17
+IVs: 30 HP
+- Ember
+|Pidgeotto
+Level: 19
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+|Raticate
+Level: 16
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Quick Attack
+- Hyper Fang
+|Kadabra
+Level: 18
+IVs: 30 HP
+- Teleport
+- Disable
+- Confusion
+|Wartortle
+Level: 20
+IVs: 30 HP
+- Tackle
+- Tail Whip
+- Bubble
+- Water Gun
+|Ivysaur
+Level: 20
+IVs: 30 HP
+- Tackle
+- Growl
+- Leech Seed
+- Vine Whip
+|Charmeleon
+Level: 20
+IVs: 30 HP
+- Scratch
+- Growl
+- Ember
+- Leer
+|Pidgeotto
+Level: 25
+IVs: 30 HP
+- Gust
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Growlithe
+Level: 23
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Growlithe
+Level: 22
+IVs: 30 HP
+- Bite
+- Roar
+- Ember
+|Gyarados
+Level: 23
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Gyarados
+Level: 22
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Exeggcute
+Level: 23
+IVs: 30 HP
+- Barrage
+- Hypnosis
+|Exeggcute
+Level: 22
+IVs: 30 HP
+- Barrage
+- Hypnosis
+|Kadabra
+Level: 20
+IVs: 30 HP
+- Teleport
+- Disable
+- Confusion
+|Wartortle
+Level: 25
+IVs: 30 HP
+- Tail Whip
+- Bubble
+- Water Gun
+- Bite
+|Ivysaur
+Level: 25
+IVs: 30 HP
+- Growl
+- Leech Seed
+- Vine Whip
+- Poison Powder
+|Charmeleon
+Level: 25
+IVs: 30 HP
+- Rage
+- Growl
+- Ember
+- Leer
+|Pidgeot
+Level: 37
+IVs: 30 HP
+- Wing Attack
+- Sand Attack
+- Quick Attack
+- Whirlwind
+|Growlithe
+Level: 38
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Growlithe
+Level: 35
+IVs: 30 HP
+- Take Down
+- Roar
+- Ember
+- Leer
+|Gyarados
+Level: 38
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Gyarados
+Level: 35
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Exeggcute
+Level: 38
+IVs: 30 HP
+- Reflect
+- Leech Seed
+- Stun Spore
+- Poison Powder
+|Exeggcute
+Level: 35
+IVs: 30 HP
+- Reflect
+- Leech Seed
+- Stun Spore
+- Hypnosis
+|Alakazam
+Level: 35
+IVs: 30 HP
+- Confusion
+- Disable
+- Psybeam
+- Recover
+|Blastoise
+Level: 40
+IVs: 30 HP
+- Water Gun
+- Bite
+- Withdraw
+- Bubble
+|Venusaur
+Level: 40
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Leech Seed
+|Charizard
+Level: 40
+IVs: 30 HP
+- Leer
+- Rage
+- Slash
+- Ember
+|Pidgeot
+Level: 47
+IVs: 30 HP
+- Wing Attack
+- Agility
+- Quick Attack
+- Whirlwind
+|Rhyhorn
+Level: 45
+IVs: 30 HP
+- Stomp
+- Tail Whip
+- Fury Attack
+- Horn Drill
+|Growlithe
+Level: 45
+IVs: 30 HP
+- Take Down
+- Agility
+- Ember
+- Leer
+|Growlithe
+Level: 47
+IVs: 30 HP
+- Take Down
+- Agility
+- Ember
+- Leer
+|Gyarados
+Level: 45
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Gyarados
+Level: 47
+IVs: 30 HP
+- Hydro Pump
+- Bite
+- Dragon Rage
+- Leer
+|Exeggcute
+Level: 45
+IVs: 30 HP
+- Leech Seed
+- Stun Spore
+- Poison Powder
+- Solar Beam
+|Exeggcute
+Level: 47
+IVs: 30 HP
+- Leech Seed
+- Stun Spore
+- Poison Powder
+- Solar Beam
+|Alakazam
+Level: 50
+IVs: 30 HP
+- Psybeam
+- Recover
+- Psychic
+- Reflect
+|Blastoise
+Level: 53
+IVs: 30 HP
+- Bite
+- Withdraw
+- Skull Bash
+- Hydro Pump
+|Venusaur
+Level: 53
+IVs: 30 HP
+- Vine Whip
+- Poison Powder
+- Razor Leaf
+- Growth
+|Charizard
+Level: 53
+IVs: 30 HP
+- Flamethrower
+- Leer
+- Rage
+- Slash
+|Pidgeot
+Level: 61
+IVs: 30 HP
+- Wing Attack
+- Mirror Move
+- Sky Attack
+- Whirlwind
+|Alakazam
+Level: 59
+IVs: 30 HP
+- Psybeam
+- Psychic
+- Recover
+- Reflect
+|Rhydon
+Level: 61
+IVs: 30 HP
+- Leer
+- Tail Whip
+- Fury Attack
+- Horn Drill
+|Exeggutor
+Level: 61
+IVs: 30 HP
+- Barrage
+- Hypnosis
+- Stomp
+|Exeggutor
+Level: 63
+IVs: 30 HP
+- Barrage
+- Hypnosis
+- Stomp
+|Gyarados
+Level: 61
+IVs: 30 HP
+- Hyper Beam
+- Dragon Rage
+- Leer
+- Hydro Pump
+|Gyarados
+Level: 63
+IVs: 30 HP
+- Hyper Beam
+- Dragon Rage
+- Leer
+- Hydro Pump
+|Arcanine
+Level: 61
+IVs: 30 HP
+- Ember
+- Roar
+- Leer
+- Take Down
+|Arcanine
+Level: 63
+IVs: 30 HP
+- Ember
+- Roar
+- Leer
+- Take Down
+|Blastoise
+Level: 65
+IVs: 30 HP
+- Hydro Pump
+- Withdraw
+- Blizzard
+- Bite
+|Venusaur
+Level: 65
+IVs: 30 HP
+- Growth
+- Mega Drain
+- Razor Leaf
+- Solar Beam
+|Charizard
+Level: 65
+IVs: 30 HP
+- Fire Blast
+- Rage
+- Slash
+- Fire Spin
+|Dewgong
+Level: 54
+IVs: 30 HP
+- Growl
+- Rest
+- Aurora Beam
+- Take Down
+|Cloyster
+Level: 53
+IVs: 30 HP
+- Spike Cannon
+- Supersonic
+- Clamp
+- Aurora Beam
+|Slowbro
+Level: 54
+IVs: 30 HP
+- Growl
+- Water Gun
+- Withdraw
+- Amnesia
+|Jynx
+Level: 56
+IVs: 30 HP
+- Double Slap
+- Ice Punch
+- Body Slam
+- Thrash
+|Lapras
+Level: 56
+IVs: 30 HP
+- Body Slam
+- Confuse Ray
+- Blizzard
+- Hydro Pump
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Haunter
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Haunter
+Level: 23
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Haunter
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 22
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 24
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+|Gastly
+Level: 34
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+- Hypnosis
+|Haunter
+Level: 34
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+- Hypnosis
+|Haunter
+Level: 38
+IVs: 30 HP
+- Confuse Ray
+- Night Shade
+- Hypnosis
+- Dream Eater
+|Gastly
+Level: 33
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+- Hypnosis
+|Gastly
+Level: 33
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+- Hypnosis
+|Haunter
+Level: 33
+IVs: 30 HP
+- Lick
+- Confuse Ray
+- Night Shade
+- Hypnosis
+|Gengar
+Level: 56
+IVs: 30 HP
+- Confuse Ray
+- Night Shade
+- Hypnosis
+- Dream Eater
+|Golbat
+Level: 56
+IVs: 30 HP
+- Supersonic
+- Confuse Ray
+- Wing Attack
+- Haze
+|Haunter
+Level: 55
+IVs: 30 HP
+- Confuse Ray
+- Night Shade
+- Hypnosis
+- Dream Eater
+|Arbok
+Level: 58
+IVs: 30 HP
+- Bite
+- Glare
+- Screech
+- Acid
+|Gengar
+Level: 60
+IVs: 30 HP
+- Confuse Ray
+- Night Shade
+- Toxic
+- Dream Eater
+|Gyarados
+Level: 58
+IVs: 30 HP
+- Hyper Beam
+- Dragon Rage
+- Leer
+- Hydro Pump
+|Dragonair
+Level: 56
+IVs: 30 HP
+- Agility
+- Slam
+- Dragon Rage
+- Hyper Beam
+|Aerodactyl
+Level: 60
+IVs: 30 HP
+- Supersonic
+- Bite
+- Take Down
+- Hyper Beam
+|Dragonite
+Level: 62
+IVs: 30 HP
+- Agility
+- Slam
+- Barrier
+- Hyper Beam
